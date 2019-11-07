@@ -1,6 +1,6 @@
 # harf_buyut_kucult
 
-A new Flutter project.
+Uppercase ve Lowercase fonksiyonları kullanılarak yapılmış bir .. bir şey işte :D
 
 ## Getting Started
 
